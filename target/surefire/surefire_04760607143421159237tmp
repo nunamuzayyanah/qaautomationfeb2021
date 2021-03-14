@@ -1,0 +1,7 @@
+#surefire_0
+#Sat Mar 13 13:00:49 IST 2021
+environment=prod
+user.dir=F\:\\JLFeb2021\\RG\\fullstack-automation
+suiteXmlFile=apitests.xml
+localRepository=C\:\\Users\\chandan\\.m2\\repository
+basedir=F\:\\JLFeb2021\\RG\\fullstack-automation
